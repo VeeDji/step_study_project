@@ -1,0 +1,5 @@
+starlette
+sqlalchemy
+uliweb-alembic
+pydantic
+fastapi~=0.116.1
